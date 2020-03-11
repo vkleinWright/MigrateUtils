@@ -5,4 +5,4 @@ adding a new line for master
 
 adding a new line for testBranch
 
-adding a new line for next branch
+adding a new line for nextBranch
